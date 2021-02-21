@@ -1,0 +1,10 @@
+:root {
+	--floss: url("https://cdn.discordapp.com/attachments/704947753108897832/812975440327213066/tenor.gif")
+}
+[aria-label="Sticker, Dance, Wumpus dancing with headphones on"] .lottieCanvas-1W7L-f {
+	background-image: var(--floss);
+    height: 0px;
+    width: 0px;
+	padding: 50%;
+	background-size: 100%;
+}

@@ -1,0 +1,9 @@
+{
+	"icon": "icon.gif",
+    "name": "Sticker Pack Theme",
+    "description": "A theme that replaces stickers from the \"Hello Wumpus\" pack with memes, this is also served to be very easily customized.",
+    "version": "1.0.0",
+    "author": "Kewl Sage from Hypesquad",
+    "theme": "index.css",
+    "license": "none"
+}
